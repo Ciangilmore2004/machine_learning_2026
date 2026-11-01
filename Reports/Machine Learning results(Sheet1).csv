@@ -1,0 +1,2 @@
+Notebook,Preprocessing/Pipelining,train_test_split/cross_validation,mean_absolute_error,mean_squared_error,r2_score
+,"SimpleImputer,StandardScaler, LinearRegression",test size=0.2 random_state=42,7.54E-17,1.02E-16,1
